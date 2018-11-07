@@ -1,3 +1,11 @@
+/*
+ * Esta biblioteca trás todas as funções necessárias para o monitoramento da saúde do sistema, assim como as funções
+ * utilizadas para encerrar sistemas e processos em funcionamento na sonda.
+ *
+ * Autor: Vitor Hugo Chaves Cambui.
+ * */
+
+
 #ifndef KILL_LIBRARY_H
 #define KILL_LIBRARY_H
 #define HIGH 1
